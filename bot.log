@@ -1,0 +1,66 @@
+[2026-09-17T23:56:58.136Z] [INFO] 🚀 Auto-delivery bot listening on http://127.0.0.1:3030
+[2026-09-17T23:56:58.144Z] [INFO]   Health:    GET  /health
+[2026-09-17T23:56:58.145Z] [INFO]   Manual:    POST /order  (curl-friendly)
+[2026-09-17T23:56:58.146Z] [INFO]   Xianyu:    POST /webhook/xianyu  (TODO: needs API token)
+[2026-09-17T23:56:58.147Z] [INFO]   WeChat:    POST /webhook/wechat  (TODO: needs 企微 webhook)
+[2026-09-17T23:56:58.147Z] [INFO]   Admin:     GET  /admin/orders  (Bearer change-me-in-production)
+[2026-09-17T23:56:58.148Z] [INFO] 
+[2026-09-17T23:56:58.149Z] [INFO] ⚠️  Before production:
+[2026-09-17T23:56:58.150Z] [INFO]    1) 把 lanzou.shareUrl / password 改成你的网盘链接
+[2026-09-17T23:56:58.151Z] [INFO]    2) 设置环境变量 ADMIN_TOKEN=<random-secret>
+[2026-09-17T23:56:58.154Z] [INFO]    3) 申请闲鱼开放平台 + 企微群机器人 webhook
+[2026-09-17T23:57:27.390Z] [INFO] Order created: XY-2024001 for ????A
+[2026-09-17T23:57:27.492Z] [INFO] Order created: WX-2024002 for ????B
+[2026-09-17T23:57:27.502Z] [INFO] Order created: KS-2024003 for ????C
+[2026-09-17T23:57:27.511Z] [INFO] Order created: XY-2024004 for ????D
+[2026-09-17T23:57:27.521Z] [INFO] Order created: GLB-2024005 for TestBuyerE
+[2026-09-18T00:00:32.835Z] [INFO] 🚀 Auto-delivery bot listening on http://127.0.0.1:3030
+[2026-09-18T00:00:32.839Z] [INFO]   Health:    GET  /health
+[2026-09-18T00:00:32.840Z] [INFO]   Manual:    POST /order  (curl-friendly)
+[2026-09-18T00:00:32.841Z] [INFO]   Xianyu:    POST /webhook/xianyu  (TODO: needs API token)
+[2026-09-18T00:00:32.842Z] [INFO]   WeChat:    POST /webhook/wechat  (TODO: needs 企微 webhook)
+[2026-09-18T00:00:32.843Z] [INFO]   Admin:     GET  /admin/orders  (Bearer change-me-in-production)
+[2026-09-18T00:00:32.844Z] [INFO] 
+[2026-09-18T00:00:32.845Z] [INFO] ⚠️  Before production:
+[2026-09-18T00:00:32.846Z] [INFO]    1) 把 lanzou.shareUrl / password 改成你的网盘链接
+[2026-09-18T00:00:32.847Z] [INFO]    2) 设置环境变量 ADMIN_TOKEN=<random-secret>
+[2026-09-18T00:00:32.848Z] [INFO]    3) 申请闲鱼开放平台 + 企微群机器人 webhook
+[2026-09-18T00:01:03.389Z] [INFO] Order created: NOTIFY-TEST-001 for ??????
+[2026-09-18T00:01:03.391Z] [INFO] No notification channels configured (all empty)
+[2026-09-18T02:03:03.829Z] [INFO] 🚀 Auto-delivery bot listening on http://127.0.0.1:3030
+[2026-09-18T02:03:03.834Z] [INFO]   Health:    GET  /health
+[2026-09-18T02:03:03.835Z] [INFO]   Manual:    POST /order  (curl-friendly)
+[2026-09-18T02:03:03.836Z] [INFO]   Xianyu:    POST /webhook/xianyu  (TODO: needs API token)
+[2026-09-18T02:03:03.837Z] [INFO]   WeChat:    POST /webhook/wechat  (TODO: needs 企微 webhook)
+[2026-09-18T02:03:03.838Z] [INFO]   Admin:     GET  /admin/orders  (Bearer change-me-in-production)
+[2026-09-18T02:03:03.839Z] [INFO] 
+[2026-09-18T02:03:03.840Z] [INFO] ⚠️  Before production:
+[2026-09-18T02:03:03.841Z] [INFO]    1) 把 lanzou.shareUrl / password 改成你的网盘链接
+[2026-09-18T02:03:03.842Z] [INFO]    2) 设置环境变量 ADMIN_TOKEN=<random-secret>
+[2026-09-18T02:03:03.842Z] [INFO]    3) 申请闲鱼开放平台 + 企微群机器人 webhook
+[2026-09-18T02:03:44.188Z] [INFO] Claim fulfilled: NOTIFY-TEST-001 for ??????
+[2026-09-18T02:03:44.249Z] [WARN] Key mismatch for order NOTIFY-TEST-001: expected WPS-B8BA751F7F59, got WRONG-KEY
+[2026-09-18T02:25:28.698Z] [INFO] 🚀 Auto-delivery bot listening on http://127.0.0.1:3030
+[2026-09-18T02:25:28.702Z] [INFO]   Health:    GET  /health
+[2026-09-18T02:25:28.702Z] [INFO]   Manual:    POST /order  (curl-friendly)
+[2026-09-18T02:25:28.703Z] [INFO]   Xianyu:    POST /webhook/xianyu  (TODO: needs API token)
+[2026-09-18T02:25:28.708Z] [INFO]   WeChat:    POST /webhook/wechat  (TODO: needs 企微 webhook)
+[2026-09-18T02:25:28.709Z] [INFO]   Admin:     GET  /admin/orders  (Bearer change-me-in-production)
+[2026-09-18T02:25:28.710Z] [INFO] 
+[2026-09-18T02:25:28.711Z] [INFO] ⚠️  Before production:
+[2026-09-18T02:25:28.712Z] [INFO]    1) 把 lanzou.shareUrl / password 改成你的网盘链接
+[2026-09-18T02:25:28.713Z] [INFO]    2) 设置环境变量 ADMIN_TOKEN=<random-secret>
+[2026-09-18T02:25:28.714Z] [INFO]    3) 申请闲鱼开放平台 + 企微群机器人 webhook
+[2026-09-18T02:25:46.425Z] [WARN] Key mismatch for order XY-2024001: expected WPS-FE639EC0753A, got ***
+[2026-09-18T02:26:04.176Z] [INFO] Claim fulfilled: XY-2024001 for ????A
+[2026-09-18T03:01:26.736Z] [INFO] 🚀 Auto-delivery bot listening on http://127.0.0.1:3030
+[2026-09-18T03:01:26.741Z] [INFO]   Health:    GET  /health
+[2026-09-18T03:01:26.742Z] [INFO]   Manual:    POST /order  (curl-friendly)
+[2026-09-18T03:01:26.742Z] [INFO]   Xianyu:    POST /webhook/xianyu  (TODO: needs API token)
+[2026-09-18T03:01:26.745Z] [INFO]   WeChat:    POST /webhook/wechat  (TODO: needs 企微 webhook)
+[2026-09-18T03:01:26.746Z] [INFO]   Admin:     GET  /admin/orders  (Bearer change-me-in-production)
+[2026-09-18T03:01:26.747Z] [INFO] 
+[2026-09-18T03:01:26.747Z] [INFO] ⚠️  Before production:
+[2026-09-18T03:01:26.752Z] [INFO]    1) 把 lanzou.shareUrl / password 改成你的网盘链接
+[2026-09-18T03:01:26.753Z] [INFO]    2) 设置环境变量 ADMIN_TOKEN=<random-secret>
+[2026-09-18T03:01:26.755Z] [INFO]    3) 申请闲鱼开放平台 + 企微群机器人 webhook
