@@ -1,28 +1,24 @@
-# Build artifacts
-dist/
-_stage/
-*.zip
-*.exe
+﻿# 敏感数据
+.env
+config_local.py
+*.key
+*.pem
+targets.txt
+cookies.json
+output/
+results/
+*.log
 
-# PowerShell
-*.ps1.bak
+# Python
+__pycache__/
+*.pyc
+venv/
+.env.*
 
-# OS
+# 订单/用户数据（隐私）
+orders.json
+bot.log
+
+# 系统
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Editors
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Test/debug
-demo-test/
-debug-redaction.ps1
-precheck-bcd.ps1
-
-# Env
-.env
-.env.local
