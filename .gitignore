@@ -22,3 +22,6 @@ bot.log
 # 系统
 .DS_Store
 Thumbs.db
+
+dist/
+_stage/
